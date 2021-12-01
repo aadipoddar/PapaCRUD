@@ -22,3 +22,12 @@ D:\PapaCRUD\PapaCRUD\obj\Debug\net6.0-windows\PapaCRUD.dll
 D:\PapaCRUD\PapaCRUD\obj\Debug\net6.0-windows\ref\PapaCRUD.dll
 D:\PapaCRUD\PapaCRUD\obj\Debug\net6.0-windows\PapaCRUD.pdb
 D:\PapaCRUD\PapaCRUD\obj\Debug\net6.0-windows\PapaCRUD.genruntimeconfig.cache
+D:\PapaCRUD\PapaCRUD\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PapaCRUD\PapaCRUD\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PapaCRUD\PapaCRUD\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PapaCRUD\PapaCRUD\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\PapaCRUD\PapaCRUD\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\PapaCRUD\PapaCRUD\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PapaCRUD\PapaCRUD\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PapaCRUD\PapaCRUD\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PapaCRUD\PapaCRUD\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
