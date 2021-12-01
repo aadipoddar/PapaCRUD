@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0caa502-0fc7-4c47-af86-fac7d1fb6e15": {
+      "ProjectGuid": "c0caa502-0fc7-4c47-af86-fac7d1fb6e15",
+      "DisplayName": "PapaCRUD",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+D:\PapaCRUD\Published\PapaCRUD.exe
+D:\PapaCRUD\Published\PapaCRUD.dll
+D:\PapaCRUD\Published\PapaCRUD.deps.json
+D:\PapaCRUD\Published\PapaCRUD.runtimeconfig.json
+D:\PapaCRUD\Published\PapaCRUD.pdb
+D:\PapaCRUD\Published\System.Data.SqlClient.dll
+D:\PapaCRUD\Published\runtimes\win-arm64\native\sni.dll
+D:\PapaCRUD\Published\runtimes\win-x64\native\sni.dll
+D:\PapaCRUD\Published\runtimes\win-x86\native\sni.dll
+D:\PapaCRUD\Published\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PapaCRUD\Published\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
